@@ -1,0 +1,6 @@
+{
+  "name": "Bright Smile Dental Clinic",
+  "description": "Premium dental clinic in Rohini Sector-24, Delhi offering comprehensive preventive, cosmetic, restorative, and emergency dental care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
